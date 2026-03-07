@@ -1,8 +1,12 @@
-# ⚡ FREAK-lang-dev
-![Banner](Banner.png)
-> **"The boundary between human craft and machine logic."**
+<div align="center">
+  
+# ![Banner](Banner.png)
+  
+**"The boundary between human craft and machine logic."**
 
 ![Status](https://img.shields.io/badge/Status-Operating-00e5ff) ![Tech](https://img.shields.io/badge/Tech-LLVM--Systems-ff2d78) ![Method](https://img.shields.io/badge/Method-AI--Augmented-7fff6a)
+
+</div>
 
 ## 🧪 The Laboratory
 
